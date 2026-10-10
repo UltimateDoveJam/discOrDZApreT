@@ -1,10 +1,10 @@
 # discOrDZApreT
 
-Сборка discOrDZApreT заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей.
+Новая версия с поддержкой работы Discord. Быстрее, стабильнее, надежнее
 
 Сборка discOrDZApreT заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/UltimateDoveJam/discOrDZApreT/releases/latest
-Код: https://github.com/UltimateDoveJam/discOrDZApreT
+Релиз: https://github.com/ultimatedovejam/discOrDZApreT/releases/latest
+Код: https://github.com/ultimatedovejam/discOrDZApreT
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/UltimateDoveJam/discOrDZApreT
+Страница: https://github.com/ultimatedovejam/discOrDZApreT
